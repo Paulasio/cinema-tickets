@@ -1,0 +1,14 @@
+uk\gov\dwp\uc\pairtest\domain\PurchaseSummary.class
+uk\gov\dwp\uc\pairtest\TicketTypeRequest.class
+uk\gov\dwp\uc\pairtest\service\Pricing$1.class
+uk\gov\dwp\uc\pairtest\TicketServiceImpl.class
+thirdparty\seatbooking\SeatReservationServiceImpl.class
+uk\gov\dwp\uc\pairtest\service\Pricing.class
+uk\gov\dwp\uc\pairtest\service\PurchaseValidator.class
+thirdparty\paymentgateway\TicketPaymentService.class
+uk\gov\dwp\uc\pairtest\service\PurchaseCalculator.class
+thirdparty\seatbooking\SeatReservationService.class
+thirdparty\paymentgateway\TicketPaymentServiceImpl.class
+uk\gov\dwp\uc\pairtest\exception\InvalidPurchaseException.class
+uk\gov\dwp\uc\pairtest\model\TicketType.class
+uk\gov\dwp\uc\pairtest\TicketService.class
